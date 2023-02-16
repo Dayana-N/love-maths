@@ -1,4 +1,4 @@
 # Love Maths 
-A project for Code Institute
+A [project](https://dayana-n.github.io/love-maths/) for Code Institute 
 ![Love Maths](./assets/images/love-maths.PNG)
 
